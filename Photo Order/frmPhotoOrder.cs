@@ -12,9 +12,9 @@ namespace Photo_Order
 {
     // This program calculates the total price for photo print order
     // of different sizes
-    public partial class Form1 : Form
+    public partial class frmPhotoOrder : Form
     {
-        public Form1()
+        public frmPhotoOrder()
         {
             InitializeComponent();
         }

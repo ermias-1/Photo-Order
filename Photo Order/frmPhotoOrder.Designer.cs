@@ -1,6 +1,6 @@
 ﻿namespace Photo_Order
 {
-    partial class Form1
+    partial class frmPhotoOrder
     {
         /// <summary>
         /// Required designer variable.
